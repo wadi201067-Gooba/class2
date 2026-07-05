@@ -9,3 +9,6 @@ def mul(a,b):
 
 def div(a,b):
     print(a/b)
+
+def square(a):
+    print(a*a)
